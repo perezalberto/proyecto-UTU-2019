@@ -1,0 +1,136 @@
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.formAgregarPropiedad.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.FormConfig.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.formEditarPropiedad.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.FormEmpleado.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.FormPrincipal.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.FormCliente.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.Resources.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.formEditarVisita.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.formRegistroCliente.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\Inmobiliaria.exe.config
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\Inmobiliaria.exe
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\Inmobiliaria.pdb
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\Inmobiliaria.xml
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\MySql.Data.dll
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\Google.Protobuf.dll
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\MySql.Data.xml
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.vbproj.CopyComplete
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.exe
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.xml
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.pdb
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.xml
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\Google.Protobuf.dll
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\MySql.Data.xml
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.formPropiedad.resources
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormConfig.resources
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormEmpleado.resources
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormPrincipal.resources
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormCliente.resources
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.Resources.resources
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.formEditarVisita.resources
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.formRegistroCliente.resources
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.InputPassword.resources
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbproj.CopyComplete
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.xml
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
+C:\Users\perez\Desktop\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbprojAssemblyReference.cache
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.xml
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\MySql.Data.dll
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\Google.Protobuf.dll
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\bin\Debug\MySql.Data.xml
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbprojAssemblyReference.cache
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.formPropiedad.resources
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormConfig.resources
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormEmpleado.resources
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormPrincipal.resources
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormCliente.resources
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.Resources.resources
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.formEditarVisita.resources
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.formRegistroCliente.resources
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.InputPassword.resources
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbproj.GenerateResource.cache
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbproj.CoreCompileInputs.cache
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbproj.CopyComplete
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.xml
+D:\## proyecto programacion segunda entrega ##\Inmobiliaria Proyecto\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.DataListView.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.DataListViewItem.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormAsignarVisita.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormImageViewer.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormPropiedad.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormConfig.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormEmpleado.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormPrincipal.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormCliente.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.Resources.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormEditarVisita.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormVisitaAgendada.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormRegistroCliente.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.InputPassword.resources
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbproj.GenerateResource.cache
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbproj.CoreCompileInputs.cache
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.xml
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.xml
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\bin\Debug\MySql.Data.dll
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\bin\Debug\Google.Protobuf.dll
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\bin\Debug\Gma.QrCodeNet.Encoding.xml
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\bin\Debug\MySql.Data.xml
+D:\proyecto programacion\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbproj.CopyComplete
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\bin\Debug\Inmobiliaria.xml
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\bin\Debug\MySql.Data.dll
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\bin\Debug\Google.Protobuf.dll
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\bin\Debug\MySql.Data.xml
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormImageViewer.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormPropiedad.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormConfig.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormEmpleado.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormPrincipal.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormCliente.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.Resources.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormEditarVisita.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormRegistroEmpleado.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormVisitaAgendada.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormRegistroCliente.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.InputPassword.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbproj.GenerateResource.cache
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbproj.CoreCompileInputs.cache
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbproj.CopyComplete
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.xml
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormVerVisita.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormVerTelefonos.resources
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.vbprojAssemblyReference.cache
+C:\Users\perez\Desktop\WindowsApp4\Inmobiliaria\obj\Debug\Inmobiliaria.FormRegistroExistente.resources

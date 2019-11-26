@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1704A177-7FDF-40DD-B93B-DB5F178A2DBC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Inmobiliaria.My.MyApplication</StartupObject>
+    <RootNamespace>Inmobiliaria</RootNamespace>
+    <AssemblyName>Inmobiliaria</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Inmobiliaria.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Inmobiliaria.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icono.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Gma.QrCodeNet.Encoding, Version=0.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QrCode.Net.0.4.0.0\lib\net45\Gma.QrCodeNet.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database\Database.vb" />
+    <Compile Include="Database\Propiedad\AtributoPropiedad.vb" />
+    <Compile Include="Database\Propiedad\SqlPropiedad.vb" />
+    <Compile Include="Database\Propiedad\DmlPropiedad.vb" />
+    <Compile Include="Database\EstadoDatos.vb" />
+    <Compile Include="Database\Propiedad\FiltroPropiedad.vb" />
+    <Compile Include="Database\Propiedad\OperacionPropiedad.vb" />
+    <Compile Include="Database\Propiedad\TipoPropiedad.vb" />
+    <Compile Include="Database\Sucursal.vb" />
+    <Compile Include="Database\Telefonos.vb" />
+    <Compile Include="Database\Usuario\DmlPersona.vb" />
+    <Compile Include="Database\Usuario\Enumeraciones\AtributoEmpleado.vb" />
+    <Compile Include="Database\Usuario\Enumeraciones\AtributoCliente.vb" />
+    <Compile Include="Database\Usuario\DmlCliente.vb" />
+    <Compile Include="Database\Usuario\DmlEmpleado.vb" />
+    <Compile Include="Database\Usuario\Enumeraciones\AtributoPersona.vb" />
+    <Compile Include="Database\Usuario\SqlCliente.vb" />
+    <Compile Include="Database\Usuario\SqlEmpleado.vb" />
+    <Compile Include="Database\Usuario\Enumeraciones\FiltroCliente.vb" />
+    <Compile Include="Database\Usuario\Enumeraciones\FiltroEmpleado.vb" />
+    <Compile Include="Database\Usuario\ISqlUsuario.vb" />
+    <Compile Include="Database\Usuario\Enumeraciones\RolEmpleado.vb" />
+    <Compile Include="Database\Usuario\DatosCliente.vb" />
+    <Compile Include="Database\Usuario\DatosEmpleado.vb" />
+    <Compile Include="Database\Usuario\DatosPersona.vb" />
+    <Compile Include="Database\Propiedad\DatosPropiedad.vb" />
+    <Compile Include="Database\Propiedad\Propiedad.vb" />
+    <Compile Include="Componentes\WindowAction.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Componentes\PanelSeparator.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Database\Usuario\Enumeraciones\TipoUsuario.vb" />
+    <Compile Include="Database\Usuario\Usuario.vb" />
+    <Compile Include="Database\Localidades.vb" />
+    <Compile Include="Database\Visita\BuscarVisita.vb" />
+    <Compile Include="Database\Visita\DatosVisita.vb" />
+    <Compile Include="Database\Visita\EstadoVisita.vb" />
+    <Compile Include="Database\Visita\FiltroVisita.vb" />
+    <Compile Include="Database\Visita\Visita.vb" />
+    <Compile Include="utilidades\CustomException.vb" />
+    <Compile Include="utilidades\DataValidation.vb" />
+    <Compile Include="utilidades\Utilities.vb" />
+    <Compile Include="VentanasSecundarias\FormImageViewer.Designer.vb">
+      <DependentUpon>FormImageViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormImageViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormPropiedad.Designer.vb">
+      <DependentUpon>FormPropiedad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormPropiedad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormConfig.Designer.vb">
+      <DependentUpon>FormConfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormConfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.vb">
+      <DependentUpon>FormPrincipal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCliente.Designer.vb">
+      <DependentUpon>FormCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmpleado.Designer.vb">
+      <DependentUpon>FormEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Componentes\ListMenuButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormEditarVisita.Designer.vb">
+      <DependentUpon>FormEditarVisita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormEditarVisita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormRegistroEmpleado.Designer.vb">
+      <DependentUpon>FormRegistroEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormRegistroEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormRegistroExistente.Designer.vb">
+      <DependentUpon>FormRegistroExistente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormRegistroExistente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormVerTelefonos.Designer.vb">
+      <DependentUpon>FormVerTelefonos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormVerTelefonos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormVerVisita.Designer.vb">
+      <DependentUpon>FormVerVisita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormVerVisita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormVisitaAgendada.Designer.vb">
+      <DependentUpon>FormVisitaAgendada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormVisitaAgendada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormRegistroCliente.Designer.vb">
+      <DependentUpon>FormRegistroCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentanasSecundarias\FormRegistroCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanasSecundarias\InputPassword.Designer.vb">
+      <DependentUpon>InputPassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VentanasSecundarias\InputPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="VentanasSecundarias\FormImageViewer.resx">
+      <DependentUpon>FormImageViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanasSecundarias\FormPropiedad.resx">
+      <DependentUpon>FormPropiedad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanasSecundarias\FormConfig.resx">
+      <DependentUpon>FormConfig.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmpleado.resx">
+      <DependentUpon>FormEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCliente.resx">
+      <DependentUpon>FormCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanasSecundarias\FormEditarVisita.resx">
+      <DependentUpon>FormEditarVisita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanasSecundarias\FormRegistroEmpleado.resx">
+      <DependentUpon>FormRegistroEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanasSecundarias\FormRegistroExistente.resx">
+      <DependentUpon>FormRegistroExistente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanasSecundarias\FormVerTelefonos.resx">
+      <DependentUpon>FormVerTelefonos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanasSecundarias\FormVerVisita.resx">
+      <DependentUpon>FormVerVisita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanasSecundarias\FormVisitaAgendada.resx">
+      <DependentUpon>FormVisitaAgendada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanasSecundarias\FormRegistroCliente.resx">
+      <DependentUpon>FormRegistroCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanasSecundarias\InputPassword.resx">
+      <DependentUpon>InputPassword.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\Login_screen_bg1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_icon3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login_screen_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-preview-default.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image-preview-default1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-arrow-white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Apartment_24px_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Task_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Remove_Book_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Edit_File_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar-cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar-edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_Subtract_16px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\subtract.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-up-white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-down-white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus-green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icono.ico" />
+    <None Include="Resources\assignment_ind_white_24x24.png" />
+    <None Include="Resources\icons8_Checkmark_24px.png" />
+    <None Include="Resources\icons8_User_24px.png" />
+    <None Include="Resources\icons8_Ok_100px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

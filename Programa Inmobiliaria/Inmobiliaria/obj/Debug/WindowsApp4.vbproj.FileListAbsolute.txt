@@ -1,0 +1,82 @@
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.cache
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.CoreCompileInputs.cache
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormEmpleado.resources
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormPrincipal.resources
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormCliente.resources
+C:\Users\perez\source\repos\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.ButtonMenuList.resources
+D:\proyecto programacion\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+D:\proyecto programacion\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+D:\proyecto programacion\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+D:\proyecto programacion\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+D:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbprojAssemblyReference.cache
+D:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.ButtonMenuList.resources
+D:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormEmpleado.resources
+D:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormPrincipal.resources
+D:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormCliente.resources
+D:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+D:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.cache
+D:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.CoreCompileInputs.cache
+D:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+D:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+D:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
+I:\proyecto programacion\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+I:\proyecto programacion\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+I:\proyecto programacion\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+I:\proyecto programacion\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormPrincipal.resources
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.cache
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.CoreCompileInputs.cache
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormEmpleado.resources
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormCliente.resources
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.SidebarMenuPanel.resources
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbprojAssemblyReference.cache
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormConfig.resources
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.formAgregarPropiedad.resources
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.formEditarPropiedad.resources
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.formEditarVisita.resources
+I:\proyecto programacion\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.formRegistroCliente.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.formAgregarPropiedad.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormConfig.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.formEditarPropiedad.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormEmpleado.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormPrincipal.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.FormCliente.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.Resources.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.formEditarVisita.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.formRegistroCliente.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.GenerateResource.cache
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.CoreCompileInputs.cache
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.exe
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.xml
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.pdb
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe.config
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.exe
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.pdb
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\WindowsApp4.xml
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\MySql.Data.dll
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\Google.Protobuf.dll
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\bin\Debug\MySql.Data.xml
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbprojAssemblyReference.cache
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\WindowsApp4.vbproj.CopyComplete
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.formAgregarPropiedad.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.FormConfig.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.formEditarPropiedad.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.FormEmpleado.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.FormPrincipal.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.FormCliente.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.Resources.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.formEditarVisita.resources
+C:\Users\perez\Desktop\WindowsApp4\WindowsApp4\obj\Debug\Inmobiliaria.formRegistroCliente.resources

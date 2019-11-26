@@ -1,0 +1,495 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Inmobiliaria
+</name>
+</assembly>
+<members>
+<member name="T:Inmobiliaria.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.arrow_down_white">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.arrow_up_white">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.assignment_ind_white_24x24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.calendar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.calendar_cancel">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.calendar_edit">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.close_icon3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.delete">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.delete_red">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.edit_blue">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.icons8_Apartment_24px_3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.icons8_Edit_File_24px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.icons8_Ok_100px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.icons8_Remove_Book_24px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.icons8_Subtract_16px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.icons8_Task_24px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.icons8_User_24px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.image_preview_default">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.image_preview_default1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.left_arrow">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.left_arrow_white">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.left_arrow1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.Login_screen_bg">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.Login_screen_bg1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.ok_red">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.plus">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.plus_green">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.settings">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Inmobiliaria.My.Resources.Resources.subtract">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Inmobiliaria.Database.SQL(MySql.Data.MySqlClient.MySqlCommand@)">
+ <summary>
+ SQL (Consulta a la base de datos)
+ </summary>
+ <returns>MySqlDataAdapter con er resultado de la consulta</returns>
+</member>
+<member name="M:Inmobiliaria.Database.DML(System.String)">
+ <summary>
+ DML (Data Manipulation Language)
+ </summary>
+</member>
+<member name="M:Inmobiliaria.Database.DML(System.String[])">
+ <summary>
+ DML (Data Manipulation Language)
+ Ejecuta un arreglo de consultas DML
+ </summary>
+</member>
+<member name="T:Inmobiliaria.EstadoDatos">
+ <summary>
+ Estado del dato a buscar (ACTIVO, INACTIVO, NULL), utilizado en las propiedades o en los usuarios
+ </summary>
+</member>
+<member name="T:Inmobiliaria.OperacionPropiedad">
+ <summary>
+ Tipos de operacion disponibles para una propiedad (ALQUILER, VENTA, NULL)
+ </summary>
+</member>
+<member name="T:Inmobiliaria.TipoPropiedad">
+ <summary>
+ Tipo de propiedad (CASA, APARTAMENTO, LOCAL_COMERCIAL, NULL)
+ </summary>
+</member>
+<member name="M:Inmobiliaria.SqlCliente.Filtro(Inmobiliaria.FiltroCliente,System.Object)">
+ <summary>
+ Filtros de busqueda para empleados
+ </summary>
+ <param name="tipo"></param>
+ <param name="dato"></param>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.SqlCliente.Desc">
+ <summary>
+ Resultados en orden descendente segun el numero de visitas
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.SqlCliente.Asc">
+ <summary>
+ Resultados en orden ascendente segun el numero de visitas
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.SqlCliente.Limite(System.Int32,System.Int32)">
+ <summary>
+ Limita la cantidad y el punto de inicio de los datos a obtener
+ </summary>
+ <param name="desde"></param>
+ <param name="cantidad"></param>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.SqlCliente.MostrarVisitas">
+ <summary>
+ Muestra la cantidad total de visitas
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.SqlCliente.MostrarVisitas(System.DateTime)">
+ <summary>
+ Muestra todas las visitas de un dia en especifico
+ </summary>
+ <param name="fecha">Fecha</param>
+ <returns></returns>
+</member>
+<member name="P:Inmobiliaria.SqlCliente.SqlText">
+ <summary>
+ Retorna uns string con la consulta de busqueda
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.SqlEmpleado.Filtro(Inmobiliaria.FiltroEmpleado,System.Object)">
+ <summary>
+ Filtros de busqueda para empleados
+ </summary>
+ <param name="tipo"></param>
+ <param name="dato"></param>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.SqlEmpleado.Desc">
+ <summary>
+ Resultados en orden descendente segun el numero de visitas
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.SqlEmpleado.Asc">
+ <summary>
+ Resultados en orden ascendente segun el numero de visitas
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.SqlEmpleado.Limite(System.Int32,System.Int32)">
+ <summary>
+ Limita la cantidad y el punto de inicio de los datos a obtener
+ </summary>
+ <param name="desde"></param>
+ <param name="cantidad"></param>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.SqlEmpleado.MostrarVisitas">
+ <summary>
+ Muestra la cantidad total de visitas
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.SqlEmpleado.MostrarVisitas(System.DateTime)">
+ <summary>
+ Muestra todas las visitas de un dia en especifico
+ </summary>
+ <param name="fecha">Fecha</param>
+ <returns></returns>
+</member>
+<member name="P:Inmobiliaria.SqlEmpleado.SqlText">
+ <summary>
+ Retorna uns string con la consulta de busqueda
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.Propiedad.BuscarPorCI(System.Int32)">
+ <summary>
+ Busca la(s) propiedad(es) a la venta y/o alquiler de un cliente
+ </summary>
+ <param name="ci">cedula del vendedor de la(s) propiedad(es) a buscar</param>
+ <returns>DataTable - lista de propiedades</returns>
+</member>
+<member name="M:Inmobiliaria.Propiedad.BuscarPorCodigo(System.Int32)">
+ <summary>
+ Busca una propiedad por su codigo de propiedad
+ </summary>
+ <param name="cod">codigo de propiedad</param>
+ <returns>DataRow - Una propiedad</returns>
+</member>
+<member name="M:Inmobiliaria.Propiedad.Lista(Inmobiliaria.SqlPropiedad@)">
+ <summary>
+ Lista y Busca propiedades en la base de datos
+ </summary>
+ <param name="datos">Utilizado para realizar filtros en las propiedades</param>
+ <returns>Datatable - Selección de propiedades</returns>
+</member>
+<member name="M:Inmobiliaria.Propiedad.BuscarImagen(System.Int32)">
+ <summary>
+ Obtiene la imagen de una propiedad a través de su código de propiedad
+ </summary>
+ <param name="cod">código de propiedad</param>
+ <returns>Image - Retorna la imagen de la propiedad</returns>
+</member>
+<member name="M:Inmobiliaria.Usuario.LoginCliente(System.Int32)">
+ <summary>
+ Comprueba si el cliente esta registrado y 
+ </summary>
+ <param name="ci">cedula del cliente</param>
+</member>
+<member name="M:Inmobiliaria.Usuario.LoginEmpleado(System.Int32,System.String)">
+ <summary>
+ Comprueba el Usuario y contraseña del empleado
+ </summary>
+ <param name="ci">cedula del empleado</param>
+ <param name="passwd">contraseña del empleado</param>
+</member>
+<member name="M:Inmobiliaria.Usuario.IsLoggedIn">
+ <summary>
+ Comprueba si esta logeado
+ </summary>
+ <returns>Boolean</returns>
+</member>
+<member name="M:Inmobiliaria.Usuario.DatosLogeado">
+ <summary>
+ Obtiene los datos del usuario logeado
+ </summary>
+ <returns>DatosPersona: Datos de persona</returns>
+</member>
+<member name="M:Inmobiliaria.Localidades.Departamentos">
+ <summary>
+ Retorna todos los depatramentos de la base de datos
+ </summary>
+ <returns>Datatable de departamentos</returns>
+</member>
+<member name="M:Inmobiliaria.Localidades.Localidades(System.Int32)">
+ <summary>
+ Busca la localidades a partir del id del depratamento
+ </summary>
+ <param name="depId">Id del departamento</param>
+ <returns>Datatable con el resultado de la seleccion de las localidades de un departamento</returns>
+</member>
+<member name="M:Inmobiliaria.Localidades.DepPorCodLocalidad(System.Int32)">
+ <summary>
+ Retorna un DataRow en el cual la posicion 0 = id_dep y la 1 = nombre
+ </summary>
+ <param name="codLoc">codigo de localidad</param>
+ <returns></returns>
+</member>
+<member name="M:Inmobiliaria.Visita.AsignarAgente(System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Asigna un agente a una propiedad
+ </summary>
+ <param name="ciCli">ci del cliente que realiza una visita a una propiedad</param>
+ <param name="idProp">codigo de la propiedad a la que se realiza la visita</param>
+ <param name="ciEmp">ci del empleado que se asignará para realizar la visita</param>
+ <returns>Retorna true si la operacion se realiza con exito</returns>
+</member>
+<member name="T:Inmobiliaria.DataValidation">
+ <summary>
+ Conjunto de funciones utilizadas para la validacion de los datos dados por los usuarios
+ </summary>
+</member>
+<member name="M:Inmobiliaria.DataValidation.IsValidCI(System.String)">
+ <summary>
+ Basado en codigo de https://github.com/francocorreasosa/ci_py
+ </summary>
+ <param name="ci">cedula uruguaya</param>
+ <returns>retorna true si la cédula es correcta</returns>
+</member>
+<member name="M:Inmobiliaria.DataValidation.IsValidEmail(System.String)">
+ <summary>
+ Comprueba si el correo es correcto
+ </summary>
+ <param name="email">correo</param>
+ <returns>True si el correo es valido</returns>
+</member>
+<member name="M:Inmobiliaria.DataValidation.IsValidTelephone(System.String)">
+ <summary>
+ Comprueba si el telefono es valido
+ </summary>
+ <param name="tel">Telefono</param>
+ <returns>True si el telefono es valido</returns>
+</member>
+<member name="M:Inmobiliaria.DataValidation.IsValidName(System.String)">
+ <summary>
+ Comprueba si el nombre o apellido tiene un formato valido
+ </summary>
+ <param name="name">Nombre</param>
+ <returns>True si es valido</returns>
+</member>
+<member name="M:Inmobiliaria.DataValidation.IsValidPassword(System.String,System.UInt32)">
+ <summary>
+ Comprueba si la contraseña es valida
+ </summary>
+ <param name="pass"></param>
+ <param name="minSize"></param>
+ <returns></returns>
+</member>
+<member name="T:Inmobiliaria.Utilities">
+ <summary>
+ Conjunto de utilidades utilizadas en el proyecto
+ </summary>
+</member>
+<member name="M:Inmobiliaria.Utilities.ByteArrayToImage(System.Byte[])">
+ <summary>
+ Arreglo de Bytes a Imagen
+ </summary>
+ <param name="data">Arreglo de Bytes</param>
+ <returns>Imagen</returns>
+</member>
+<member name="M:Inmobiliaria.Utilities.ImageToByteArray(System.Drawing.Image)">
+ <summary>
+ Imagen a arreglo de Bytes
+ </summary>
+ <param name="datos">Imagen a convertir</param>
+ <returns>Arreglo de Bytes</returns>
+</member>
+<member name="M:Inmobiliaria.Utilities.CreateQrCode(System.String,System.Int32)">
+ <summary>
+ Crea un codigo QR a partir de un texto
+ </summary>
+ <param name="text">Texto a convertir en codigo QR</param>
+ <param name="msize">Tamaño de cada modulo que forma el codigo QR</param>
+ <returns>Imagen del codigo QR con el texto pasado por parametro</returns>
+</member>
+<member name="M:Inmobiliaria.Utilities.LoadFile(System.Windows.Forms.OpenFileDialog,System.String)">
+ <summary>
+ Abre un dialogo de Buqueda de archivos
+ </summary>
+ <param name="fd">OpenFileDialog</param>
+ <returns>Retorna un archivo en array de Bytes</returns>
+</member>
+<member name="M:Inmobiliaria.Utilities.LoadImageFile(System.Windows.Forms.OpenFileDialog)">
+ <summary>
+ Abre un dialogo de Buqueda de archivos tipo imagen
+ </summary>
+ <param name="fd">OpenFileDialog</param>
+ <returns>Retorna la imagen en array de Bytes</returns>
+</member>
+<member name="M:Inmobiliaria.Utilities.Join2d(System.String[0:,0:]@,System.String,System.String)">
+ <summary>
+ Junta el arreglo de 2 dimensiones dado por el parametro data
+ </summary>
+ <param name="data">arreglo de 2 dimensiones de tipo string</param>
+ <param name="s1">Separador de los elementos en cada fila</param>
+ <param name="s2">Separador de las filas</param>
+ <returns>Retorna un string con la union de los elementos del arreglo</returns>
+</member>
+<member name="M:Inmobiliaria.Utilities.Join2d(System.String[0:,0:]@,System.String,System.Int32)">
+ <summary>
+ Junta solo una de las columnas de un arreglo de 2 dimenciones (las columnas son determinadas por la primer dimención del arreglo)
+ </summary>
+ <param name="data">Arreglo 2d de string</param>
+ <param name="sep">separador</param>
+ <param name="use">Elige cual de las columnas del arreglo se va a juntar</param>
+ <returns>Retorna un string con la union de los elementos de una dimención del arreglo</returns>
+</member>
+<member name="M:Inmobiliaria.Utilities.DateToSql(System.DateTime)">
+ <summary>
+ Converte la fecha y Hora de tipo Date a una cadena con el formato utilizado en MySql
+ </summary>
+ <param name="d">Fecha y Hora de Tipo Date</param>
+ <returns>String que representa la fecha dada por parametro</returns>
+</member>
+<member name="M:Inmobiliaria.Utilities.ImageResize(System.Drawing.Image,System.Int32,System.Int32)">
+ <summary>
+ Redimenciona una imagen manteniendo su relacion de aspecto con un tamaño maximo dado por parametro
+ </summary>
+ <param name="img">Imagen a redimencionar</param>
+ <param name="width">ancho maximo de la imagen redimencionada</param>
+ <param name="height">alto maximo de la imagen redimencionada</param>
+ <returns>Retorna la imagen redimencionada</returns>
+</member>
+</members>
+</doc>
